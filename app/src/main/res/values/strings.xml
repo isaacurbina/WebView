@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebViewHW</string>
+    <string name="labelURL">URL on the WebView:</string>
+    <string name="textURL">www.amazon.com</string>
+    <string name="buttonGo">Go</string>
+    <string name="buttonClear">X</string>
+    <string name="buttonJS">JS</string>
+</resources>
